@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Izmir here. Learning how to use GitHub
